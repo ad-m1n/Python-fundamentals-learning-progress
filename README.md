@@ -5,4 +5,4 @@ This is just a journal for the actual first thing I do that actually useful thro
 
 Hopefully I can use this.
 
--admin
+-Admin
